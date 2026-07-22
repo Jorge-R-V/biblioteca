@@ -1,0 +1,5 @@
+﻿db.url=jdbc:oracle:thin:@SU_URL_AQUI?TNS_ADMIN=C://ruta//al//wallet
+db.user=BIBLIOTECA
+db.password=TU_PASSWORD_AQUI
+email.sender=tu_correo@gmail.com
+email.password=TU_APP_PASSWORD_AQUI
